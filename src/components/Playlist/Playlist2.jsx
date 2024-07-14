@@ -54,7 +54,7 @@ const Playlist = () => {
                     part: 'snippet',
                     maxResults: 25,
                     playlistId: selectedPlaylist,
-                    key: 'AIzaSyDhk8JrPJQjyAHuIFxXb_CGShZzfK10KjE',
+                    key: '',
                 }
             });
 
